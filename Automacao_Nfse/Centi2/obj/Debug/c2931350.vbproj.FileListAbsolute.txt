@@ -1,0 +1,9 @@
+H:\NBSnet\modulos\NFSe\NfseService\bin\c2931350.dll
+H:\NBSnet\modulos\NFSe\NfseService\bin\c2931350.pdb
+H:\NBSnet\modulos\NFSe\NfseService\bin\c2931350.xml
+H:\NBSnet\modulos\NFSe\NFSeCore\cidades\2931350_Abrasft_2.02_Teixeira_de_Freitas_BA\obj\Debug\c2931350.vbprojResolveAssemblyReference.cache
+H:\NBSnet\modulos\NFSe\NFSeCore\cidades\2931350_Abrasft_2.02_Teixeira_de_Freitas_BA\obj\Debug\c2931350.Resources.resources
+H:\NBSnet\modulos\NFSe\NFSeCore\cidades\2931350_Abrasft_2.02_Teixeira_de_Freitas_BA\obj\Debug\c2931350.vbproj.GenerateResource.Cache
+H:\NBSnet\modulos\NFSe\NFSeCore\cidades\2931350_Abrasft_2.02_Teixeira_de_Freitas_BA\obj\Debug\c2931350.dll
+H:\NBSnet\modulos\NFSe\NFSeCore\cidades\2931350_Abrasft_2.02_Teixeira_de_Freitas_BA\obj\Debug\c2931350.xml
+H:\NBSnet\modulos\NFSe\NFSeCore\cidades\2931350_Abrasft_2.02_Teixeira_de_Freitas_BA\obj\Debug\c2931350.pdb

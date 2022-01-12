@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+c2931350
+</name>
+</assembly>
+<members>
+<member name="P:c2931350.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member><member name="P:c2931350.My.Resources.Resources.Culture">
+	<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member><member name="T:c2931350.My.Resources.Resources">
+	<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member><member name="M:c2931350.c2931350.MakeXML.processar(NFSeCore.NfseCapaData@,NFSeCore.NfseServicoData@,NFSeCore.NfseTomadorData@,NFSeCore.NfseSubstituidoData@,System.Int32)">
+	<summary>
+ Interpreta os dados da integração e os converte para um XML de RPS ja 
+ em formato de LOTE
+ </summary>
+	<param name="capa">Dados da capa da nota</param>
+	<param name="servico">Dados do servico referenciado na nota</param>
+	<param name="tomador">Dados do tomador do servico</param>
+	<returns>String - XML do lote de RPS</returns>
+</member><member name="M:c2931350.c2931350.MakeXML.popularXML(NFSeCore.NfseCapaData@,NFSeCore.NfseServicoData@,NFSeCore.NfseTomadorData@,NFSeCore.NfseSubstituidoData@)">
+	<summary>
+ Atraves dos dados provenientes da camada de integracao é preenchido o dataset que sera
+ convertido em XML
+ </summary>
+</member><member name="M:c2931350.c2931350.MakeXML.popularXML2(NFSeCore.NfseCapaData@,NFSeCore.NfseServicoData@,NFSeCore.NfseTomadorData@,NFSeCore.NfseSubstituidoData@,System.Int32)">
+	<summary>
+ Caso seja um xml de substituicao
+ </summary>
+	<param name="capa"></param>
+	<param name="servico"></param>
+	<param name="tomador"></param>
+	<param name="substituido"></param>
+	<remarks></remarks>
+</member><member name="M:c2931350.c2931350.MakeXML.initDataTables">
+	<summary>
+ Metodo auxiliar que referencia os objetos datatable do dataset em copias de uso interno
+ </summary>
+</member>
+</members>
+</doc>
